@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "D071FDAA-C163-476A-8044-9CA7002BFA0E",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:DemoSwiftMVVM.xcodeproj",
+      "identifier" : "94A60C4E2D888430007CE2EA",
+      "name" : "DemoSwiftMVVM"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:DemoSwiftMVVM.xcodeproj",
+        "identifier" : "94A60C642D888433007CE2EA",
+        "name" : "DemoSwiftMVVMTests"
+      }
+    },
+    {
+      "enabled" : false,
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:DemoSwiftMVVM.xcodeproj",
+        "identifier" : "94A60C6E2D888434007CE2EA",
+        "name" : "DemoSwiftMVVMUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

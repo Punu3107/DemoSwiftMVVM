@@ -1,0 +1,12 @@
+disabled_rules:
+- trailing_whitespace
+- colon
+- comma
+- comment_spacing
+- todo
+- line_length
+- unneeded_override
+
+
+
+
