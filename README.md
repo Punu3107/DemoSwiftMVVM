@@ -14,7 +14,7 @@ This project organised in  different layer structure and each layer have used fo
 
 ### Coordinator 
 
-### Swift Package Manager Por Package Dependendies
+### Swift Package Manager For Package Dependendies
 
 ### Swift Lint
 
